@@ -1,0 +1,3 @@
+OOPS Programming Lab
+File Handling
+This program will copy these contents into destination.txt.
